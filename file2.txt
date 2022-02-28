@@ -1,2 +1,3 @@
 FOR GIT CLONE file2.txt
 line from user2
+Another line from user2
